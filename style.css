@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+    padding-left: 5%;
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+p {
+    color: aliceblue;
+    padding-left: 5%;
+
+}
+
+img {
+    padding-left: 5%;
+    height: 500px;
+}
+
